@@ -1,6 +1,13 @@
 {
-    "helloWorld": "Hello World!",
-    "@helloWorld": {
-      "description": "The conventional newborn programmer greeting"
-    }
+  "@@locale": "en",
+
+  "welcomeTitle": "HELLO\nKamran",
+  "@welcomeTitle": {},
+  "signIn": "Sign in",
+  "@signIn": {},
+  "login": "Login",
+  "@login": {},
+  "password": "Password",
+  "@password": {}
+    
 }
